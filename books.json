@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1234",
+        "title": "Wiedźmin",
+        "author": "Andrzej Sapkowski",
+        "year": "1994",
+        "genre": "Fantasy"
+    },
+    {
+        "id": "5678",
+        "title": "Lalka",
+        "author": "Bolesław Prus",
+        "year": "1890",
+        "genre": "Powieść"
+    }
+]
